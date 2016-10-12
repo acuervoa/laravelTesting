@@ -1,5 +1,5 @@
 <?php // lesson/tests/PracticeTest.php
-use \Practice;
+
 
 class PracticeTest extends PHPUnit_Framework_TestCase {
   // public function testHelloWorld()
