@@ -1,7 +1,5 @@
 <?php // lesson/tests/DateFormatterTest.php
 
-use \DateFormatter;
-
 class DateFormatterTest extends PHPUnit_Framework_TestCase {
   public function testStampMustBeInstanceOfDateTime()
   {
